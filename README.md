@@ -1,7 +1,7 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
-  👋 Hi, I'm <strong>Sai Bharadwaj</strong>
+  👋 Hi, I'm <strong>Sai Bharadwaj Kamarajugadda</strong>
 </h1>
 
 <h3>Full Stack Developer | Java • Spring Boot • MERN • DevOps</h3>
@@ -24,8 +24,8 @@
   </p>
 
   <p>
-    🌍 Bengaluru, India <br/>
-    📧 your-email@gmail.com <br/>
+    🌍 Hyderabad, India <br/>
+    📧 bharatsolo0390@gmail.com <br/>
     🚀 Open to Full Stack / Backend Developer Roles
   </p>
 </div>
