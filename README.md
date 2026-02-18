@@ -36,13 +36,13 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 Java • JavaScript • TypeScript • Python • C
 
-### ⚙️ Backend
+### ⚙️ Backend Frameworks
 Spring Boot • Hibernate • JPA • Node.js • Express
 
-### 🎨 Frontend
+### 🎨 Frontend Frameworks
 React • Next.js • HTML • CSS • Tailwind • Bootstrap
 
 ### 🗄️ Databases
@@ -53,31 +53,112 @@ Docker • Git • GitHub Actions • AWS (EC2) • GCP • Postman • VS Code
 
 ---
 
-## 🚀 What I’m Building Now
+## 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| [DevOps Portfolio](https://github.com/Bharatsolo/dev-ops-portfolio) | Docker, Spring Boot, AWS EC2 | End-to-end automated CI/CD portfolio running live on AWS |
+| [E-Commerce Platform](https://github.com/Bharatsolo/ecom-app) | MERN, Stripe, Docker | Full-featured scalable e-commerce platform with payment integration |
+| [Workflow Automation](https://github.com/Bharatsolo/automate-workflows) | Python, Node.js, GCP | Automated scripts for business productivity and optimization |
+| [Real-Time Chat App](https://github.com/Bharatsolo/chat-app) | React, Socket.io, MongoDB | Production-ready real-time messaging application |
+| [Blog CMS](https://github.com/Bharatsolo/blog-cms) | Spring Boot, React, PostgreSQL | Full-stack blog management system with admin panel |
+
+---
+
+## 🚀 What I'm Building Now
 
 - Turning my portfolio into a complete DevOps project (Docker + CI/CD + AWS EC2)
-- Designing scalable backend systems with Spring Boot
-- Automation scripts for real-world workflow optimization
+- Designing scalable microservices architecture with Spring Boot
+- Building automation scripts for real-world workflow optimization
+- Exploring advanced cloud deployment strategies
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bharatsolo&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharatsolo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsolo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+## 🎓 Certifications & Achievements
+
+- ✅ ECE Graduate (2024)
+- ✅ Completed 45+ real-world development projects
+- ✅ Strong portfolio with live production deployments
+- ✅ AWS Certified (Cloud Practitioner) - *Add if applicable*
+- ✅ Docker & containerization expert
+
+---
+
+## 📌 Latest Work
+
+- 🔄 Recently completed: Full CI/CD DevOps automation for personal portfolio
+- 🎯 Currently building: Scalable backend microservices with Spring Boot
+- 📚 Learning: Advanced cloud technologies (AWS/GCP), System Design patterns
+
+---
+
+## 💼 Experience Highlights
+
+| Period | Role/Focus | Achievements |
+|--------|-----------|--------------|
+| **2024–Present** | Backend Engineer & DevOps | Building scalable systems, setting up CI/CD pipelines |
+| **2022–2024** | Full Stack Developer | Delivered 30+ projects (e-commerce, automation, web apps) |
+| **2021–2022** | Junior Developer | Mastered Spring Boot, MERN stack, learned DevOps basics |
 
 ---
 
 ## 🎯 Career Objective
 
-To work in a product-based company where I can build scalable systems, 
-improve system design skills, and grow into a strong backend engineer.
+To work in a product-based company where I can:
+- Build scalable, production-ready systems
+- Master system design and architecture patterns
+- Grow into a strong backend/DevOps engineer
+- Contribute to meaningful technical projects
+
+---
+
+## 📚 Learning Path & Goals
+
+- [ ] System Design Mastery
+- [ ] Kubernetes & Advanced DevOps
+- [ ] Microservices Architecture
+- [ ] Machine Learning basics
+- [ ] Contribute to open-source projects
 
 ---
 
 ## 💡 Philosophy
 
-> Clean Code > Fancy Code  
-> Systems > Syntax  
-> Shipping > Talking
+> **Clean Code > Fancy Code**  
+> **Systems > Syntax**  
+> **Shipping > Talking**  
+> **Scalability > Speed to build**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharatsolo)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Sai Bharadwaj**
+
+</div>
